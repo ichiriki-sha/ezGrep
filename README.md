@@ -1,4 +1,4 @@
-# 🔍 ezGrep - サクラエディタ風Grep PowerShellスクリプト
+# 🔍 ezGrep
 
 ## 📌 概要
 
